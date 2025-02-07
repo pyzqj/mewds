@@ -2,4 +2,4 @@
 # 支持设置白名单：接口后添加$!
 # The local source list, one line per source, format: channel name, interface address
 # Support setting whitelist: add $! after the interface
-自建,http://w.pyz.co:35455/tv.m3u
+自建,http://w.pyz.co:35455/tv.m3u$!
